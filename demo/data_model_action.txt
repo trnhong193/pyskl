@@ -1,0 +1,128 @@
+load checkpoint from local path: .cache/joint_f6bed715.pth
+load checkpoint from http path: https://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_fpn_1x_coco-person/faster_rcnn_r50_fpn_1x_coco-person_20201216_175929-d022e227.pth
+Performing Human Detection for each frame
+[                                                  ] 0/72, elapsed: 0s, ETA:[                                  ] 1/72, 1.4 task/s, elapsed: 1s, ETA:    52s[                                  ] 2/72, 2.5 task/s, elapsed: 1s, ETA:    28s[>                                 ] 3/72, 3.5 task/s, elapsed: 1s, ETA:    19s[>                                 ] 4/72, 4.4 task/s, elapsed: 1s, ETA:    15s[>>                                ] 5/72, 5.3 task/s, elapsed: 1s, ETA:    13s[>>                                ] 6/72, 6.0 task/s, elapsed: 1s, ETA:    11s[>>>                               ] 7/72, 6.6 task/s, elapsed: 1s, ETA:    10s[>>>                               ] 8/72, 7.2 task/s, elapsed: 1s, ETA:     9s[>>>>                              ] 9/72, 7.8 task/s, elapsed: 1s, ETA:     8s[>>>>                             ] 10/72, 8.3 task/s, elapsed: 1s, ETA:     7s[>>>>>                            ] 11/72, 8.7 task/s, elapsed: 1s, ETA:     7s[>>>>>                            ] 12/72, 9.2 task/s, elapsed: 1s, ETA:     7s[>>>>>                            ] 13/72, 9.6 task/s, elapsed: 1s, ETA:     6s[>>>>>>                           ] 14/72, 9.9 task/s, elapsed: 1s, ETA:     6s[>>>>>>                          ] 15/72, 10.3 task/s, elapsed: 1s, ETA:     6s[>>>>>>>                         ] 16/72, 10.6 task/s, elapsed: 2s, ETA:     5s[>>>>>>>                         ] 17/72, 10.9 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>                        ] 18/72, 11.1 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>                        ] 19/72, 11.4 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>                        ] 20/72, 11.6 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>                       ] 21/72, 11.9 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>                       ] 22/72, 12.1 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>>                      ] 23/72, 12.2 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>>                      ] 24/72, 12.4 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>>>                     ] 25/72, 12.6 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>>>                     ] 26/72, 12.7 task/s, elapsed: 2s, ETA:     4s[>>>>>>>>>>>>                    ] 27/72, 12.9 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>                    ] 28/72, 13.1 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>                    ] 29/72, 13.2 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>                   ] 30/72, 13.4 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>                   ] 31/72, 13.5 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>>                  ] 32/72, 13.6 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>>                  ] 33/72, 13.7 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>>>                 ] 34/72, 13.8 task/s, elapsed: 2s, ETA:     3s[>>>>>>>>>>>>>>>                 ] 35/72, 13.9 task/s, elapsed: 3s, ETA:     3s[>>>>>>>>>>>>>>>>                ] 36/72, 14.0 task/s, elapsed: 3s, ETA:     3s[>>>>>>>>>>>>>>>>                ] 37/72, 14.1 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>                ] 38/72, 14.2 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>               ] 39/72, 14.3 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>               ] 40/72, 14.4 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>              ] 41/72, 14.4 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>              ] 42/72, 14.5 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>             ] 43/72, 14.6 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>             ] 44/72, 14.7 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>            ] 45/72, 14.8 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>            ] 46/72, 14.8 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>            ] 47/72, 14.9 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>           ] 48/72, 15.0 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>           ] 49/72, 15.0 task/s, elapsed: 3s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>          ] 50/72, 15.1 task/s, elapsed: 3s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>          ] 51/72, 15.2 task/s, elapsed: 3s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>         ] 52/72, 15.2 task/s, elapsed: 3s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>         ] 53/72, 15.3 task/s, elapsed: 3s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>        ] 54/72, 15.3 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>        ] 55/72, 15.4 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>        ] 56/72, 15.5 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>       ] 57/72, 15.5 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>       ] 58/72, 15.6 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>      ] 59/72, 15.6 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>      ] 60/72, 15.7 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 61/72, 15.7 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 62/72, 15.8 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 63/72, 15.8 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 64/72, 15.9 task/s, elapsed: 4s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 65/72, 15.9 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 66/72, 16.0 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 67/72, 16.0 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 68/72, 16.0 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 69/72, 16.1 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 70/72, 16.1 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 71/72, 16.2 task/s, elapsed: 4s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 72/72, 16.2 task/s, elapsed: 4s, ETA:     0sload checkpoint from http path: https://download.openmmlab.com/mmpose/top_down/hrnet/hrnet_w32_coco_256x192-c78dce93_20200708.pth
+Performing Human Pose Estimation for each frame
+[                                                  ] 0/72, elapsed: 0s, ETA:[                                  ] 1/72, 9.1 task/s, elapsed: 0s, ETA:     8s[                                  ] 2/72, 9.3 task/s, elapsed: 0s, ETA:     8s[>                                 ] 3/72, 9.4 task/s, elapsed: 0s, ETA:     7s[>                                 ] 4/72, 9.4 task/s, elapsed: 0s, ETA:     7s[>>                                ] 5/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>                                ] 6/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>>                               ] 7/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>>                               ] 8/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>>>                              ] 9/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>>>                             ] 10/72, 9.4 task/s, elapsed: 1s, ETA:     7s[>>>>>                            ] 11/72, 9.4 task/s, elapsed: 1s, ETA:     6s[>>>>>                            ] 12/72, 9.4 task/s, elapsed: 1s, ETA:     6s[>>>>>                            ] 13/72, 9.4 task/s, elapsed: 1s, ETA:     6s[>>>>>>                           ] 14/72, 9.4 task/s, elapsed: 1s, ETA:     6s[>>>>>>                           ] 15/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>                          ] 16/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>                          ] 17/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>>                         ] 18/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>>                         ] 19/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>>>                        ] 20/72, 9.4 task/s, elapsed: 2s, ETA:     6s[>>>>>>>>>                        ] 21/72, 9.4 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>>>                       ] 22/72, 9.4 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>>>                       ] 23/72, 9.4 task/s, elapsed: 2s, ETA:     5s[>>>>>>>>>>>                      ] 24/72, 9.4 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>                      ] 25/72, 9.4 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>                      ] 26/72, 9.3 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>>                     ] 27/72, 9.3 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>>                     ] 28/72, 9.3 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>>>                    ] 29/72, 9.3 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>>>                    ] 30/72, 9.3 task/s, elapsed: 3s, ETA:     5s[>>>>>>>>>>>>>>                   ] 31/72, 9.3 task/s, elapsed: 3s, ETA:     4s[>>>>>>>>>>>>>>                   ] 32/72, 9.3 task/s, elapsed: 3s, ETA:     4s[>>>>>>>>>>>>>>>                  ] 33/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>                  ] 34/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>                 ] 35/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>                 ] 36/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>                 ] 37/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>>                ] 38/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>>                ] 39/72, 9.3 task/s, elapsed: 4s, ETA:     4s[>>>>>>>>>>>>>>>>>>               ] 40/72, 9.3 task/s, elapsed: 4s, ETA:     3s[>>>>>>>>>>>>>>>>>>               ] 41/72, 9.3 task/s, elapsed: 4s, ETA:     3s[>>>>>>>>>>>>>>>>>>>              ] 42/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>              ] 43/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>             ] 44/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>             ] 45/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>            ] 46/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>            ] 47/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>           ] 48/72, 9.3 task/s, elapsed: 5s, ETA:     3s[>>>>>>>>>>>>>>>>>>>>>>           ] 49/72, 9.3 task/s, elapsed: 5s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>           ] 50/72, 9.3 task/s, elapsed: 5s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>          ] 51/72, 9.3 task/s, elapsed: 5s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>          ] 52/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 53/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>         ] 54/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>        ] 55/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>        ] 56/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>       ] 57/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>       ] 58/72, 9.3 task/s, elapsed: 6s, ETA:     2s[>>>>>>>>>>>>>>>>>>>>>>>>>>>      ] 59/72, 9.3 task/s, elapsed: 6s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>      ] 60/72, 9.3 task/s, elapsed: 6s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>      ] 61/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 62/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>     ] 63/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 64/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    ] 65/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 66/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   ] 67/72, 9.3 task/s, elapsed: 7s, ETA:     1s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 68/72, 9.3 task/s, elapsed: 7s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ] 69/72, 9.3 task/s, elapsed: 7s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 70/72, 9.3 task/s, elapsed: 8s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ] 71/72, 9.3 task/s, elapsed: 8s, ETA:     0s[>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>] 72/72, 9.3 task/s, elapsed: 8s, ETA:     0saaaaaaaaaaaaaaaaaaaaaaa
+[[[[342.5 154.2]
+   [345.2 148.6]
+   [337.  148.6]
+   ...
+   [317.5 331.2]
+   [370.  370. ]
+   [314.8 381. ]]
+
+  [[342.8 155.1]
+   [345.5 149.6]
+   [337.2 149.6]
+   ...
+   [317.8 331.2]
+   [370.2 369.8]
+   [315.  380.8]]
+
+  [[345.  155.1]
+   [345.  149.6]
+   [339.5 149.6]
+   ...
+   [317.5 331.2]
+   [369.8 369.8]
+   [314.8 380.8]]
+
+  ...
+
+  [[408.5 161.6]
+   [411.2 153.5]
+   [400.5 159. ]
+   ...
+   [330.  319. ]
+   [370.5 370.5]
+   [316.5 375.8]]
+
+  [[408.2 161.8]
+   [411.  153.5]
+   [400.  159. ]
+   ...
+   [329.5 319. ]
+   [370.2 370.5]
+   [316.  376. ]]
+
+  [[406.8 161.8]
+   [409.8 153.4]
+   [398.5 159. ]
+   ...
+   [328.2 319.2]
+   [370.2 367. ]
+   [314.  375.5]]]
+
+
+ [[[454.8 139.5]
+   [460.2 134. ]
+   [449.2 134. ]
+   ...
+   [432.5 316.2]
+   [463.  363. ]
+   [429.8 365.8]]
+
+  [[454.8 138.8]
+   [460.2 133.2]
+   [449.2 133.2]
+   ...
+   [432.5 317. ]
+   [463.  361.5]
+   [429.8 367. ]]
+
+  [[454.8 138.9]
+   [460.2 133.4]
+   [449.2 133.4]
+   ...
+   [432.5 315.8]
+   [463.  362.5]
+   [429.8 368. ]]
+
+  ...
+
+  [[419.  141.6]
+   [421.8 133.5]
+   [419.  136.2]
+   ...
+   [424.5 316.2]
+   [456.8 369.8]
+   [429.8 361.8]]
+
+  [[418.5 139.5]
+   [421.2 134.1]
+   [418.5 136.8]
+   ...
+   [424.  313.5]
+   [458.8 369.8]
+   [429.2 361.8]]
+
+  [[418.8 141.6]
+   [421.2 133.5]
+   [418.8 136.2]
+   ...
+   [424.  314. ]
+   [459.  370.8]
+   [429.5 360. ]]]]
+bbbbbbbbbbb
+[[[0.9707 0.978  0.9966 ... 0.8447 0.908  0.895 ]
+  [0.9443 0.9663 0.9814 ... 0.859  0.9062 0.89  ]
+  [0.929  0.941  0.9785 ... 0.8477 0.9053 0.8945]
+  ...
+  [0.9727 0.951  0.928  ... 0.9224 0.89   0.8555]
+  [0.9663 0.9634 0.946  ... 0.9194 0.8877 0.8594]
+  [0.9307 0.9316 0.975  ... 0.9185 0.8667 0.869 ]]
+
+ [[0.9507 0.97   0.964  ... 0.874  0.8945 0.9233]
+  [0.949  0.9814 0.963  ... 0.8564 0.8945 0.912 ]
+  [0.952  0.98   0.9624 ... 0.882  0.8833 0.9155]
+  ...
+  [0.91   0.8955 0.78   ... 0.856  0.8906 0.895 ]
+  [0.914  0.8784 0.7764 ... 0.8677 0.8877 0.9023]
+  [0.92   0.882  0.7915 ... 0.8774 0.8784 0.904 ]]]
+load checkpoint from http path: https://download.openmmlab.com/mmpose/top_down/hrnet/hrnet_w32_coco_256x192-c78dce93_20200708.pth
+Moviepy - Building video demo/demo.mp4.
+Moviepy - Writing video demo/demo.mp4
+
+Moviepy - Done !
+Moviepy - video ready demo/demo.mp4

@@ -1,0 +1,7 @@
+ltinh
+redis-transport
+work_dirs
+data4test
+**/__pycache__
+**/*.pyc
+**/ntu60_hrnet*

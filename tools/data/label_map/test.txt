@@ -1,0 +1,5 @@
+walk
+jump
+run
+sit
+stand
